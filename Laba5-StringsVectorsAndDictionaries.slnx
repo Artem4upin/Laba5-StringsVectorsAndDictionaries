@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Laba5-StringsVectorsAndDictionaries/Laba5-StringsVectorsAndDictionaries.vcxproj" Id="659e139b-af10-4cc3-a4af-49b2d32b7658" />
+</Solution>
